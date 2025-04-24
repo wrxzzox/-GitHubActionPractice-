@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "githubaction-5014c",
+    "wx": "githubaction-5014c"
+  },
+  "targets": {},
+  "etags": {}
 }
