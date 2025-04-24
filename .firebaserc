@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "wongwarit-6638c",
+    "wrxzzo": "wongwarit-6638c"
+  },
+  "targets": {},
+  "etags": {}
 }
